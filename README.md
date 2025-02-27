@@ -7,7 +7,7 @@
 
     **1.** Create a (https://github.com/Rita-Mahato-2025/Excel-Sales-Project-Analysis/blob/main/Customer_Performance_Report.pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _(https://github.com/Rita-Mahato-2025/Excel-Sales-Project-Analysis/blob/main/Market_Performance_vs_Target_Report.pdf)_
+    **2.** Conduct a comprehensive comparison between Market Performnce and Target_(https://github.com/Rita-Mahato-2025/Excel-Sales-Project-Analysis/blob/main/Market_Performance_vs_Target_Report.pdf)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
