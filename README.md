@@ -23,7 +23,7 @@
     **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Rita-Mahato-2025/Excel-Sales-Project-Analysis/blob/main/P%26L_Statement_By_Fiscal_Year.pdf)_ & _[Months](https://github.com/Rita-Mahato-2025/Excel-Sales-Project-Analysis/blob/main/P%26L_Statement_By_Months.pdf)
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Rita-Mahato-2025/Excel-Sales-Project-Analysis/blob/main/P%26L_Statement_By_Market.pdf)
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+- **Purpose of finance analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
 - **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
